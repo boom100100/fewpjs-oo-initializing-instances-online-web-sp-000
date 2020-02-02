@@ -2,15 +2,15 @@
 
 class Breakfast {
   constructor(food, drink) {
-    this._ = ;
-    this. = ;
+    this.food = food;
+    this.drink = drink;
   }
 }
 
 class Lunch {
   constructor(food, drink) {
-    this._ = ;
-    this. = ;
+    this.food = food;
+    this.drink = drink;
   }
 }
 
